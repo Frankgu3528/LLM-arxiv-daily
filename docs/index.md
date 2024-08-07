@@ -3354,6 +3354,21 @@ layout: default
 |**2022-07-29**|**Neural Density-Distance Fields**|Itsuki Ueda et.al.|[2207.14455](http://arxiv.org/abs/2207.14455)|**[link](https://github.com/ueda0319/neddf)**|
 |**2022-07-27**|**Is Attention All NeRF Needs?**|Mukund Varma T et.al.|[2207.13298](http://arxiv.org/abs/2207.13298)|null|
 
+## RAG
+
+| Publish Date | Title | Authors | PDF | Code |
+|:---------|:-----------------------|:---------|:------|:------|
+|**2024-08-05**|**Self-Taught Evaluators**|Tianlu Wang et.al.|[2408.02666](http://arxiv.org/abs/2408.02666)|null|
+|**2024-08-05**|**Can Reinforcement Learning Unlock the Hidden Dangers in Aligned Large Language Models?**|Mohammad Bahrami Karkevandi et.al.|[2408.02651](http://arxiv.org/abs/2408.02651)|null|
+|**2024-08-05**|**SEAS: Self-Evolving Adversarial Safety Optimization for Large Language Models**|Muxi Diao et.al.|[2408.02632](http://arxiv.org/abs/2408.02632)|null|
+|**2024-08-05**|**Progressively Selective Label Enhancement for Language Model Alignment**|Biao Liu et.al.|[2408.02599](http://arxiv.org/abs/2408.02599)|null|
+|**2024-08-05**|**Leveraging the Power of LLMs: A Fine-Tuning Approach for High-Quality Aspect-Based Summarization**|Ankan Mullick et.al.|[2408.02584](http://arxiv.org/abs/2408.02584)|null|
+|**2024-08-05**|**DanModCap: Designing a Danmaku Moderation Tool for Video-Sharing Platforms that Leverages Impact Captions**|Siying Hu et.al.|[2408.02574](http://arxiv.org/abs/2408.02574)|null|
+|**2024-08-05**|**Evaluating and Enhancing LLMs Agent based on Theory of Mind in Guandan: A Multi-Player Cooperative Game under Imperfect Information**|Yauwai Yim et.al.|[2408.02559](http://arxiv.org/abs/2408.02559)|null|
+|**2024-08-05**|**Generative AI as a Service in 6G Edge-Cloud: Generation Task Offloading by In-context Learning**|Hao Zhou et.al.|[2408.02549](http://arxiv.org/abs/2408.02549)|null|
+|**2024-08-05**|**RAG Foundry: A Framework for Enhancing LLMs for Retrieval Augmented Generation**|Daniel Fleischer et.al.|[2408.02545](http://arxiv.org/abs/2408.02545)|null|
+|**2024-08-05**|**Caution for the Environment: Multimodal Agents are Susceptible to Environmental Distractions**|Xinbei Ma et.al.|[2408.02544](http://arxiv.org/abs/2408.02544)|null|
+
 [contributors-shield]: https://img.shields.io/github/contributors/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
 [contributors-url]: https://github.com/Vincentqyw/cv-arxiv-daily/graphs/contributors
 [forks-shield]: https://img.shields.io/github/forks/Vincentqyw/cv-arxiv-daily.svg?style=for-the-badge
