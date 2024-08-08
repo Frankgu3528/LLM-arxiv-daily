@@ -3379,6 +3379,16 @@
 
 |Publish Date|Title|Authors|PDF|Code|
 |---|---|---|---|---|
+|**2024-08-07**|**How Well Can Vision Language Models See Image Details?**|Chenhui Gou et.al.|[2408.03940](http://arxiv.org/abs/2408.03940)|null|
+|**2024-08-07**|**SLIM-RAFT: A Novel Fine-Tuning Approach to Improve Cross-Linguistic Performance for Mercosur Common Nomenclature**|Vinícius Di Oliveira et.al.|[2408.03936](http://arxiv.org/abs/2408.03936)|null|
+|**2024-08-07**|**From Words to Worth: Newborn Article Impact Prediction with LLM**|Penghai Zhao et.al.|[2408.03934](http://arxiv.org/abs/2408.03934)|null|
+|**2024-08-07**|**CodexGraph: Bridging Large Language Models and Code Repositories via Code Graph Databases**|Xiangyan Liu et.al.|[2408.03910](http://arxiv.org/abs/2408.03910)|**[link](https://github.com/modelscope/modelscope-agent)**|
+|**2024-08-07**|**Decoding Biases: Automated Methods and LLM Judges for Gender Bias Detection in Language Models**|Shachi H Kumar et.al.|[2408.03907](http://arxiv.org/abs/2408.03907)|null|
+|**2024-08-07**|**Speech-MASSIVE: A Multilingual Speech Dataset for SLU and Beyond**|Beomseok Lee et.al.|[2408.03900](http://arxiv.org/abs/2408.03900)|**[link](https://github.com/hlt-mt/speech-massive)**|
+|**2024-08-07**|**From Data to Story: Towards Automatic Animated Data Video Creation with LLM-based Multi-Agent Systems**|Leixian Shen et.al.|[2408.03876](http://arxiv.org/abs/2408.03876)|null|
+|**2024-08-07**|**BeeManc at the PLABA Track of TAC-2023: Investigating LLMs and Controllable Attributes for Improving Biomedical Text Readability**|Zihao Li et.al.|[2408.03871](http://arxiv.org/abs/2408.03871)|**[link](https://github.com/hecta-uom/plaba-mu)**|
+|**2024-08-07**|**PackMamba: Efficient Processing of Variable-Length Sequences in Mamba training**|Haoran Xu et.al.|[2408.03865](http://arxiv.org/abs/2408.03865)|null|
+|**2024-08-07**|**GAIA -- A Large Language Model for Advanced Power Dispatch**|Yuheng Cheng et.al.|[2408.03847](http://arxiv.org/abs/2408.03847)|null|
 |**2024-08-06**|**Training LLMs to Recognize Hedges in Spontaneous Narratives**|Amie J. Paige et.al.|[2408.03319](http://arxiv.org/abs/2408.03319)|null|
 |**2024-08-06**|**Scaling LLM Test-Time Compute Optimally can be More Effective than Scaling Model Parameters**|Charlie Snell et.al.|[2408.03314](http://arxiv.org/abs/2408.03314)|null|
 |**2024-08-06**|**TextIM: Part-aware Interactive Motion Synthesis from Text**|Siyuan Fan et.al.|[2408.03302](http://arxiv.org/abs/2408.03302)|null|
